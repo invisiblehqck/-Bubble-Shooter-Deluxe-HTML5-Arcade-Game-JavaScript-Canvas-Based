@@ -22,17 +22,18 @@ https://Invisiblehqck.github.io/bubble-shooter-deluxe/
 
 ---
 
-## 🎮 Game Preview
+###🎮 Game Preview
 
-### 📸 Screenshot
+#🎥 Gameplay Demo
+
+<p align="center">
+  <video src="assets/demo.mp4" width="450" controls></video>
+</p>
+
+#📸 Demo Image
 
 <img src="assets/Screenshot.png" width="1000">
 
-### 🎥 Gameplay Demo (GIF Recommended)
-
-<img src="./assets/recording.mp4" width="800">
-
-(Record using OBS or screen recorder and convert to GIF.)
 
 ---
 
@@ -75,11 +76,11 @@ https://Invisiblehqck.github.io/bubble-shooter-deluxe/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/bubble-shooter-deluxe.git
+git clone https://github.com/Invisiblehqck/bubble-shooter-deluxe.git
 cd bubble-shooter-deluxe
 ```
 
-Open `index.html` in your browser.
+Save & Open `index.html` in your browser.
 
 ---
 
@@ -107,7 +108,7 @@ Open `index.html` in your browser.
 ## 👨‍💻 Author
 
 Built with precision & caffeine ☕  
-**Albert**
+**Invisiblehqck**
 
 ---
 
