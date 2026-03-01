@@ -17,7 +17,7 @@
 🚀 Deploy using GitHub Pages and paste your link here:
 
 ```
-https://your-username.github.io/bubble-shooter-deluxe/
+https://Invisiblehqck.github.io/bubble-shooter-deluxe/
 ```
 
 ---
