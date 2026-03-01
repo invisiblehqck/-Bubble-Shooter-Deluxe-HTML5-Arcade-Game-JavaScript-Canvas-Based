@@ -26,11 +26,11 @@ https://Invisiblehqck.github.io/bubble-shooter-deluxe/
 
 ### 📸 Screenshot
 
-<img src="./assets/screenshot.png" width="800">
+<img src="./assets/screenshot.png" width="1000">
 
 ### 🎥 Gameplay Demo (GIF Recommended)
 
-<img src="./assets/demo.gif" width="800">
+<img src="./assets/recording.mp4" width="800">
 
 (Record using OBS or screen recorder and convert to GIF.)
 
