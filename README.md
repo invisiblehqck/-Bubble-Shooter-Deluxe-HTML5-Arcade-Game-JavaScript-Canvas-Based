@@ -22,15 +22,15 @@ https://Invisiblehqck.github.io/bubble-shooter-deluxe/
 
 ---
 
-###🎮 Game Preview
+### 🎮 Game Preview
 
-#🎥 Gameplay Demo
+# 🎥 Gameplay Demo
 
 <p align="center">
-  <img src="./assets/demo.gif" width="450">
+  <img src="assets/demo.gif" width="450">
 </p>
 
-#📸 Demo Image
+# 📸 Demo Image
 
 <img src="assets/Screenshot.png" width="1000">
 
